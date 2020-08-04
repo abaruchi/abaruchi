@@ -15,4 +15,9 @@ In this repository you will find some personal projects and Open Source projects
 
 My personal website [HERE](https://abaruchi.dev)
 
+<div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=abaruchi&&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="abaruchi's Github Stats">
+
+---
+[![HitCount](http://hits.dwyl.com/abaruchi/abaruchi.svg)](http://hits.dwyl.com/abaruchi/abaruchi)
+</div>
