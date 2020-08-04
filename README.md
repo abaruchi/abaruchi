@@ -15,6 +15,8 @@ In this repository you will find some personal projects and Open Source projects
 
 My personal website [HERE](https://abaruchi.dev)
 
+## GitHub Stats &#x1f4c8;
+
 <div align="center">
 
 <a href="https://github.com/abaruchi/abaruchi">
