@@ -1,4 +1,5 @@
 <h1>Hello There, I am <a href="https://abaruchi.dev/">Artur</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<img align='right' src="https://github.com/abaruchi/abaruchi/blob/master/github_pic.jpg" width="230" />
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/abaruchi)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/artur-baruchi/)](https://www.linkedin.com/in/artur-baruchi/)
