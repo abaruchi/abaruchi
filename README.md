@@ -34,5 +34,4 @@ My personal website [HERE](https://abaruchi.dev)
  <a href="https://github.com/abaruchi/abaruchi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abaruchi&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
----
 </div>
